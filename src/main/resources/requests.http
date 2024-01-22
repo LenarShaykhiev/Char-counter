@@ -1,0 +1,6 @@
+POST localhost/api/lines/count/eachChar
+Content-Type: application/json
+
+{
+  "line": "adfhgrfth    "
+}
